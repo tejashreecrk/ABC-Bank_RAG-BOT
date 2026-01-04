@@ -1,0 +1,59 @@
+Customer ID: CUST1001
+
+=== ACCOUNT SUMMARY ===
+Savings Account Balance: 1,25,000 INR
+Account Type: Savings Account
+
+=== LOAN DETAILS ===
+Home Loan: Active
+Outstanding Amount: 18,50,000 INR
+
+=== CARD DETAILS ===
+Debit Card: Active
+Credit Card: Active (Platinum)
+
+=== TRANSACTIONS ===
+- 15,000 debited on 01-Jan-2026
+- 50,000 credited on 28-Dec-2025
+
+====================================
+
+
+Customer ID: CUST1002
+
+=== ACCOUNT SUMMARY ===
+Savings Account Balance: 42,300 INR
+Account Type: Savings Account
+
+=== LOAN DETAILS ===
+No Active Loans
+
+=== CARD DETAILS ===
+Debit Card: Active
+Credit Card: Not Available
+
+=== TRANSACTIONS ===
+- 2,000 debited on 03-Jan-2026
+- 10,000 credited on 30-Dec-2025
+
+====================================
+
+
+Customer ID: CUST1003
+
+=== ACCOUNT SUMMARY ===
+Savings Account Balance: 2,25,000 INR
+Account Type: Savings Account
+
+=== LOAN DETAILS ===
+Home Loan: Active
+Outstanding Amount: 15,50,000 INR
+
+=== CARD DETAILS ===
+Debit Card: Active
+Credit Card: Active (Platinum)
+
+=== TRANSACTIONS ===
+- 35,000 debited on 02-Jan-2026
+- 40,000 credited on 28-Dec-2025
+

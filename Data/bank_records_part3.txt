@@ -1,0 +1,76 @@
+Customer ID: CUST1007
+
+=== ACCOUNT SUMMARY ===
+Savings Account Balance: 9,80,000 INR
+Account Type: Savings Account
+
+=== LOAN DETAILS ===
+Business Loan: Active
+Outstanding Amount: 12,00,000 INR
+
+=== CARD DETAILS ===
+Debit Card: Active
+Credit Card: Active (Gold)
+
+=== TRANSACTIONS ===
+- 1,00,000 debited on 31-Dec-2025
+- 2,50,000 credited on 27-Dec-2025
+
+
+
+Customer ID: CUST1008
+
+=== ACCOUNT SUMMARY ===
+Savings Account Balance: 15,600 INR
+Account Type: Savings Account
+
+=== LOAN DETAILS ===
+No Active Loans
+
+=== CARD DETAILS ===
+Debit Card: Blocked
+Credit Card: Not Available
+
+=== TRANSACTIONS ===
+- 1,200 debited on 04-Jan-2026
+- 5,000 credited on 01-Jan-2026
+
+
+Customer ID: CUST1009
+
+=== ACCOUNT SUMMARY ===
+Savings Account Balance: 7,80,000 INR
+Account Type: Current Account
+
+=== LOAN DETAILS ===
+Business Loan: Active
+Outstanding Amount: 14,00,000 INR
+
+=== CARD DETAILS ===
+Debit Card: Active
+Credit Card: Active (Gold)
+
+=== TRANSACTIONS ===
+- 1,60,000 debited on 22-Dec-2025
+- 2,90,000 credited on 12-Dec-2025
+
+
+
+Customer ID: CUST1010
+
+=== ACCOUNT SUMMARY ===
+Savings Account Balance: 9,45,000 INR
+Account Type: Savings Account
+
+=== LOAN DETAILS ===
+Business Loan: Active
+Outstanding Amount: 10,00,000 INR
+
+=== CARD DETAILS ===
+Debit Card: Active
+Credit Card: Active (Gold)
+
+=== TRANSACTIONS ===
+- 3,00,000 debited on 30-Nov-2025
+- 2,30,000 credited on 01-Sept-2025
+
